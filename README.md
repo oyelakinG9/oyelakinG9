@@ -1,9 +1,11 @@
 ## Hi, I'm Oyelakin Ridwan! <img src="https://media.giphy.com/media/wyct0orcyRcS4/giphy.gif" width="60">
 
+
+
+## About
 I currently learning to work as developer @ ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-
-Remote Full-stack web developer ready for adventure <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30" height="30">
+Software Engineer and Full-stack web developer ready for adventure <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="30" height="30">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" align="right">
 
